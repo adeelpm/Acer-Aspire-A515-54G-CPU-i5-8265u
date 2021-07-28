@@ -1,4 +1,4 @@
-# Acer-A515-54G--Hackintosh-OpenCore
+# Acer-A515-54G-Hackintosh-OpenCore
 
 #### Supports MacOS 11.4
 
