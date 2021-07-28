@@ -54,20 +54,17 @@ GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
  - [x] ACPI Display brightness with hot keys / slider
  - [x] Ethernet
  - [x] HDMI + Audio
- - [x] Smart Touchpad + Gestures (using Basic Mode)
+ - [x] Smart Touchpad + Gestures
  - [x] WebCam
- - [x] Usb 3.0 + Type C
- - [x] WiFi (2.4 + 5GHz) by using BCM94352z
+ - [x] WiFi (2.4 + 5GHz)
 
 
 
  ### Known Issues
-- Bcm94352z Bluetooth (bcm20702a0) not working
 - Trackpad in Advance Mode, Only Basic mode works (but with all with gestures)!
 
 ### Not Tested
--  Sleep + Wake
- - Internal SD card Reader
+- [x] Usb 3.0 + Type C
 
 ### Important
  Please add `SystemSerialNumber`, `SystemUUID` and `MLB`.
