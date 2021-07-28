@@ -1,4 +1,4 @@
-# Acer-A515-54G-Hackintosh-OpenCore
+# Acer-A515-54G--Hackintosh-OpenCore
 
 #### Supports MacOS 11.4
 
@@ -18,17 +18,20 @@
 |Ethernet|Realtek RTL|
 |Wifi Adapter|Intel|
 |Bluetooth|Intel|
+|Keyboard|ps2 keyboard|
 |Trackpad|I2C Elan 0504|
 
 ## Working Status
 
-- [x] Internal Audio and Headphone Jack
-- [x] iGPU (Does not have a discrete GPU)
+- [x] Dual boot windows 10 + MacOS Bigsur
+- [x] Internal Audio and Headphone Jack()
+- [x] iGPU (have disabled discrete GPU)
 - [x] Battery Management
 - [x] Ethernet
 - [x] Display Brightness and control with Keys
 - [x] Sleep
-- [x] USB2.0 ports, USB3 ports,
+- [x] Wifi + Bluetooth
+- [x] USB2.0 ports
 - [x] Webcam
 - [x] Trackpad with multi finger gestures 
 - [x] HDMI
@@ -36,7 +39,8 @@
 
 
  ### Known Issues
-- Trackpad in Advance Mode, Only Basic mode works (but with all with gestures)!
+- Trackpad does not work with VoodooI2C kext but works with voodoops2(Place kext in correct order in config.plist)
+- Battery life is just half of what I get in windows 
 
 ### Not Tested
 - [x] Usb 3.0 + Type C
@@ -54,7 +58,7 @@
 * *Boot* → Boot Mode → **UEFI**
 * *Main* → Lid Open resume → **Enabled**
 
-##Guide
+## Guide
 1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
 
 1. Generating Serial Number : 
