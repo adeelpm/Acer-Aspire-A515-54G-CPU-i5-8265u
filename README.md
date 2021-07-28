@@ -1,6 +1,6 @@
 # Acer-A515-54G-Hackintosh-OpenCore
 
-#### Supports MacOS 11.0.x
+#### Supports MacOS 11.4
 
 <p align="center">
   <img src="https://i.imgur.com/q7VSJPa.png" alt="Specs">
@@ -34,31 +34,6 @@
 - [x] HDMI
 - [x] Native hotkey support with Fn keys
 
-## Installation Guide
-1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
-
-1. Generating Serial Number : 
-GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-1. Cross checking config.plist :  [Sanity Checker](https://opencore.slowgeek.com/)
-1. Further Help on Discord : [Discord Server](https://discord.com/channels/186648463541272576/251043252046659586)
-
-
-
-
-## What's Working...
- - [x] Audio & headphone jack
- - [x] CPU Speedstep
- - [x] iGPU with disabled dGPU
- - [x] Fully Functional QE/CI Enabled Graphics
- - [x] Battery Management
- - [x] ACPI Display brightness with hot keys / slider
- - [x] Ethernet
- - [x] HDMI + Audio
- - [x] Smart Touchpad + Gestures
- - [x] WebCam
- - [x] WiFi (2.4 + 5GHz)
-
-
 
  ### Known Issues
 - Trackpad in Advance Mode, Only Basic mode works (but with all with gestures)!
@@ -69,8 +44,8 @@ GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 ### Important
  Please add `SystemSerialNumber`, `SystemUUID` and `MLB`.
 
+## Installation 
 
-## Installation
 
  ### BIOS Settings
 * *Security* → Set supervisor password (to disable secure boot)
@@ -79,6 +54,13 @@ GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 * *Boot* → Boot Mode → **UEFI**
 * *Main* → Lid Open resume → **Enabled**
 
+##Guide
+1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
+
+1. Generating Serial Number : 
+GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+1. Cross checking config.plist :  [Sanity Checker](https://opencore.slowgeek.com/)
+1. Further Help on Discord : [Discord Server](https://discord.com/channels/186648463541272576/251043252046659586)
 
 ###  Basic Installation
 
