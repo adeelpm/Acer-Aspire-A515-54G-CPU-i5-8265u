@@ -6,7 +6,6 @@
   <img src="https://i.imgur.com/q7VSJPa.png" alt="Specs">
 </p>
 
-
 ## Specs
 
 |   |   |
@@ -37,7 +36,6 @@
 - [x] HDMI
 - [x] Native hotkey support with Fn keys
 
-
  ### Known Issues
 - Trackpad does not work with VoodooI2C kext but works with voodoops2(Place kext in correct order in config.plist)
 - Battery life is just half of what I get in windows 
@@ -50,7 +48,6 @@
 
 ## Installation 
 
-
  ### BIOS Settings
 * *Security* → Set supervisor password (to disable secure boot)
 * *Security* → Password on boot → **Disable**
@@ -60,11 +57,8 @@
 
 ## Guide
 1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
-
 1. Generating Serial Number : 
 GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-1. Cross checking config.plist :  [Sanity Checker](https://opencore.slowgeek.com/)
-1. Further Help on Discord : [Discord Server](https://discord.com/channels/186648463541272576/251043252046659586)
 
 ###  Basic Installation
 
