@@ -8,9 +8,9 @@
 
 ## Specs
 
-|   |   |
+|Model|Acer Aspire 5 A515-54G-55E4|
 |---|---|
-|CPU|i5-8265U|
+|CPU|8th Gen i5-8265U|
 |GPU|intel UHD 620|
 |SSD|512 GB NVME.m2|
 |RAM|8GB|
