@@ -24,7 +24,7 @@
 
 - [x] Dual boot Windows 10 + MacOS Bigsur
 - [x] Internal Audio and Headphone Jack()
-- [ ] iGPU (have disabled discrete GPU)
+- [x] iGPU (have disabled discrete GPU)
 - [x] Battery Management
 - [x] Ethernet
 - [x] Display Brightness and control with Keys
