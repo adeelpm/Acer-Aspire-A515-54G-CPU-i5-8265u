@@ -3,7 +3,7 @@
 #### Supports MacOS 11.4
 
 <p align="center">
-  <img src="https://i.imgur.com/q7VSJPa.png" alt="Specs">
+  <img src="https://raw.githubusercontent.com/adeelpm/Acer-Aspire-A515-54G-CPU-i5-8265u/main/Images/About_Mac.png" alt="Specs">
 </p>
 
 ## Specs
