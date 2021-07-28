@@ -22,7 +22,7 @@
 
 ## Working Status
 
-- [x] Dual boot windows 10 + MacOS Bigsur
+- [x] Dual boot Windows 10 + MacOS Bigsur
 - [x] Internal Audio and Headphone Jack()
 - [x] iGPU (have disabled discrete GPU)
 - [x] Battery Management
