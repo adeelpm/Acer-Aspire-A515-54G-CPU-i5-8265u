@@ -48,14 +48,14 @@
 
 ## Installation 
 
- ### BIOS Settings
+### BIOS Settings
 * *Security* → Set supervisor password (to disable secure boot)
 * *Security* → Password on boot → **Disable**
 * *Boot* → Secure Boot → **Disable**
 * *Boot* → Boot Mode → **UEFI**
 * *Main* → Lid Open resume → **Enabled**
 
-## Guide
+### Guide
 1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
 1. Generating Serial Number : GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
