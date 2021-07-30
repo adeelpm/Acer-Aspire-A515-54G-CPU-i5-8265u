@@ -1,0 +1,17 @@
+Advanced setting in bios 
+
+1. Turn off system by holding power button
+2. Press Fn+Tab thrice then F2 after turning on with power button
+
+Fixing Apfs container after windows update
+
+Download GPT fdisk form https://sourceforge.net/projects/gptfdisk/ 
+
+
+
+Fixing Time difference 
+Download https://www.howtogeek.com/wp-content/uploads/2017/08/Make-Windows-Use-UTC-Time.zip
+
+Click on Make windows use UTC time.reg
+
+Then change to your time zone in settings
