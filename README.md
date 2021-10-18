@@ -1,6 +1,6 @@
 # Acer-A515-54G-Hackintosh-OpenCore
 
-#### Supports MacOS 11.4
+#### Supports MacOS 11.6
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adeelpm/Acer-Aspire-A515-54G-CPU-i5-8265u/main/Images/About_Mac.png" alt="Specs">
@@ -15,14 +15,14 @@
 |SSD|512 GB NVME.m2|
 |RAM|8GB|
 |Ethernet|Realtek RTL|
-|Wifi Adapter|Intel|
-|Bluetooth|Intel|
+|Wifi Adapter|Intel AC-9560|
+|Bluetooth|Intel AC-9560|
 |Keyboard|ps2 keyboard|
 |Trackpad|I2C Elan 0504|
 
 ## Working Status
 
-- [x] Dual boot Windows 10 + MacOS Bigsur
+- [x] Dual boot Windows 11 + MacOS Bigsur
 - [x] Internal Audio and Headphone Jack()
 - [x] iGPU (have disabled discrete GPU)
 - [x] Battery Management
