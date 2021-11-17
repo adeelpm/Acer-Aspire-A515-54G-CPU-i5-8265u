@@ -1,6 +1,6 @@
 # Acer-A515-54G-Hackintosh-OpenCore
 
-#### Supports MacOS 11.6
+#### Supports MacOS 11.6 & Updated to Monterey 12.0
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adeelpm/Acer-Aspire-A515-54G-CPU-i5-8265u/main/Images/About_Mac.png" alt="Specs">
@@ -22,7 +22,7 @@
 
 ## Working Status
 
-- [x] Dual boot Windows 11 + MacOS Bigsur
+- [x] Dual boot Windows 11 + MacOS Monterey
 - [x] Internal Audio and Headphone Jack()
 - [x] iGPU (have disabled discrete GPU)
 - [x] Battery Management
@@ -54,6 +54,7 @@
 * *Boot* → Secure Boot → **Disable**
 * *Boot* → Boot Mode → **UEFI**
 * *Main* → Lid Open resume → **Enabled**
+* *Advance settings* → CFG-Lock → **Disabled**
 
 ### Guide
 1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
