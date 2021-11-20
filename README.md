@@ -56,10 +56,6 @@
 * *Main* → Lid Open resume → **Enabled**
 * *Advance settings* → CFG-Lock → **Disabled**
 
-### Guide
-1. This guide will help you from the start to the end : [Dortania Gitbook](https://dortania.github.io/OpenCore-Install-Guide/)
-1. Generating Serial Number : GenSMBIOS from Corpnewt [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-
 ###  Basic Installation
 
 - Create a Bootable USB for MacOS by using by Dortania's [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/).
