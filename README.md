@@ -43,9 +43,6 @@
 ### Not Tested
 - [x] Usb 3.0 + Type C
 
-### Important
- Please add `SystemSerialNumber`, `SystemUUID` and `MLB`.
-
 ## Installation 
 
 ### BIOS Settings
