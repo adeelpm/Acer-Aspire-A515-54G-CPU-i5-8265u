@@ -23,7 +23,7 @@
 ## Working Status
 
 - [x] Dual boot Windows 11 + MacOS Monterey
-- [x] Internal Audio and Headphone Jack()
+- [x] Internal Audio and Headphone Jack
 - [x] iGPU (have disabled discrete GPU)
 - [x] Battery Management
 - [x] Ethernet
